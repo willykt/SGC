@@ -1,1 +1,1 @@
-# SGC
+# Sistema de Gestión de Calidad
